@@ -1,3 +1,6 @@
+# AplikasiKeuanganPribadi
+UTS - Galih Yudha Haryanto(2310010440)  
+
 # 💰 Aplikasi Keuangan "Dompet Saya"
 
 Aplikasi desktop berbasis **Java Swing** untuk mencatat pemasukan dan pengeluaran harian.
